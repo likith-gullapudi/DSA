@@ -1,4 +1,12 @@
+# macOS metadata
 .DS_Store
+
+# IDE configs
 .idea/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Python virtual environment
+venv/
