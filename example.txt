@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 hello form master branch
 
+Line B: Simulated remote change
