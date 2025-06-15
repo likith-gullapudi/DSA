@@ -2,3 +2,4 @@
 hello form master branch
 
 Line B: Simulated remote change
+Line A: Local change
