@@ -1,0 +1,10 @@
+
+
+create table new_table(
+ name Varchar(300));
+
+insert into new_table values
+(select unique(student.name) from student);
+
+delete * from table
+where datediff(now(),table.date)<=30;
