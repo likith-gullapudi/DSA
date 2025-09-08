@@ -10,3 +10,6 @@ __pycache__/
 
 # Python virtual environment
 venv/
+
+service_account.json
+setup_study_tracker.py
